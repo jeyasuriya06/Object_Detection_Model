@@ -1,0 +1,15 @@
+path: Final_Dataset
+
+train: images/train
+val: images/valid
+test: images/test
+
+nc: 7
+names:
+  0: PET
+  1: HDPE
+  2: LDPE
+  3: Aluminium
+  4: Battery
+  5: PCB
+  6: Charger
